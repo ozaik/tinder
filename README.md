@@ -6,7 +6,7 @@ Tinder API CLI tool and TypeScript library
 
 ```sh
 
-yarn global add https://github.com/pyrosec/tinder
+yarn global add https://github.com/ozaik/tinder
 ```
 
 ## Usage
